@@ -11,4 +11,4 @@
 2. The questionnaire set is located [here](Questions.txt).
 3. The solution file is [this](SQL_Solution_and_Analysis.sql) which contains the code that can be copy-pasted in any relational database management system (RDBMS).
 
-Q1 - Q5 are beginner level, Q6 - Q10 are intermediate level and Q11 - Q13 are advanced level. 
+Questions 1 - Q5 are beginner level, Q6 - Q10 are intermediate level and Q11 - Q13 are advanced level. 
