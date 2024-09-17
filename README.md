@@ -1,6 +1,6 @@
 # Pizza Sales SQL Analysis
 <!-- Add banner here -->
-![Banner](Pictures/ivan-torres-MQUqbmszGGM-unsplash.jpg)
+![Banner](Pictures/ivan-torres-MQUqbmszGGM-unsplash-2.jpg)
 <!-- Add buttons here -->
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
